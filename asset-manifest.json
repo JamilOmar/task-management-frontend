@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7a4f8f29.chunk.css",
-    "main.js": "/static/js/main.36c32cb1.chunk.js",
-    "main.js.map": "/static/js/main.36c32cb1.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.b194cd24.chunk.js": "/static/js/2.b194cd24.chunk.js",
-    "static/js/2.b194cd24.chunk.js.map": "/static/js/2.b194cd24.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6c9daaa619fb05bf4989818530510c44.js": "/precache-manifest.6c9daaa619fb05bf4989818530510c44.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.7a4f8f29.chunk.css.map": "/static/css/main.7a4f8f29.chunk.css.map"
+    "main.css": "https://jamilomar.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://jamilomar.github.io/task-management-frontend/static/js/main.7385b88d.chunk.js",
+    "main.js.map": "https://jamilomar.github.io/task-management-frontend/static/js/main.7385b88d.chunk.js.map",
+    "runtime~main.js": "https://jamilomar.github.io/task-management-frontend/static/js/runtime~main.a5d0d366.js",
+    "runtime~main.js.map": "https://jamilomar.github.io/task-management-frontend/static/js/runtime~main.a5d0d366.js.map",
+    "static/js/2.9fc367ec.chunk.js": "https://jamilomar.github.io/task-management-frontend/static/js/2.9fc367ec.chunk.js",
+    "static/js/2.9fc367ec.chunk.js.map": "https://jamilomar.github.io/task-management-frontend/static/js/2.9fc367ec.chunk.js.map",
+    "index.html": "https://jamilomar.github.io/task-management-frontend/index.html",
+    "precache-manifest.d9f8e0ffaf1f3cd22afcbe180055bdbd.js": "https://jamilomar.github.io/task-management-frontend/precache-manifest.d9f8e0ffaf1f3cd22afcbe180055bdbd.js",
+    "service-worker.js": "https://jamilomar.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://jamilomar.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }
 }
